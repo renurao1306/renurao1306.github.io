@@ -11,3 +11,5 @@ Being a voracious reader, books feel like home to me. I also like to doodle and 
 I would like to contribute to building full-stack applications so please feel free to contact me on LinkedIn 😄
 
 [View my resume](resume.md)
+
+[Contact me on LinkedIn](https://www.linkedin.com/in/-renu-rao)
