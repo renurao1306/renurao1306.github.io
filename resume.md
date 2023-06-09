@@ -1,3 +1,9 @@
+---
+title: Renu Rao's Resume
+layout: template
+filename: resume.md
+--- 
+
 ## Hello there!
 I am Renu Rao, a recent graduate of Mumbai University with a degree in BSc. IT. Born and raised in the ever-bustling city of Mumbai, I strive to learn new concepts every day, coupled with loads of fun! These days Machine Learning and the numerous python libraries used for training ML models has piqued my interest. 
 
