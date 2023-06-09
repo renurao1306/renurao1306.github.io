@@ -76,18 +76,27 @@ _IDEs:_
 
 ## Certifications
 #### Neo4j Fundamentals
+
 Neo4j
+
 Issued May 2023
+
 [Show credential](https://graphacademy.neo4j.com/u/6c6c8c06-e977-42a8-b681-9bf0f2c375ba/neo4j-fundamentals/)
 
 
 #### Cypher Fundamentals
+
 Neo4j
+
 Issued May 2023
+
 [Show credential](https://graphacademy.neo4j.com/u/6c6c8c06-e977-42a8-b681-9bf0f2c375ba/cypher-fundamentals/)
 
 
 #### Graph Data Modeling Fundamentals
+
 Neo4j
+
 Issued May 2023
+
 [Show credential](https://graphacademy.neo4j.com/u/6c6c8c06-e977-42a8-b681-9bf0f2c375ba/modeling-fundamentals/)
