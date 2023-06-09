@@ -13,6 +13,7 @@ I am an active listener and can easily adapt to working with a team or independe
         
 My 'attention to detail' trait helps me focus my thoughts in all areas of a project/task, no matter how small, and thus stand out.
 
+
 ## Education
 ### Bachelor of Science (Information Technology)
 
@@ -33,3 +34,60 @@ _Nirmala Memorial Foundation College of Commerce and Science, Kandivali (East), 
 _St. Louis’ Convent High School, Andheri (West), Mumbai_
 
 •	Passed with 1st class distinction (94.80%)
+
+
+## Technical Skills
+_Frameworks / Technologies:_
+• 	Node.js
+•	React
+•	React Native
+•	Raspberry Pi
+•	Android 
+•	Git
+•	Jest Unit Testing Framework
+•	Google Cloud
+•	Jupyter Notebook
+
+_Programming Languages:_
+•	Python
+•	Javascript
+•	C++
+•	Java
+•	C#
+
+_Databases:_
+•	MySQL
+•	Neo4j Graph Database
+•	Microsoft SQL Server 2019
+
+_IDEs:_
+•	Visual Studio Code
+•	Thonny Python IDE
+•	Geany Text Editor
+•	Android Studio
+•	Turbo C IDE
+
+
+## Languages
+•	English    High Proficiency
+•	Hindi      Native Proficiency
+•	Marathi    Native Proficiency
+•	French	   Limited Proficiency
+
+## Certifications
+#### Neo4j Fundamentals
+Neo4j
+Issued May 2023
+[Show credential](https://graphacademy.neo4j.com/u/6c6c8c06-e977-42a8-b681-9bf0f2c375ba/neo4j-fundamentals/)
+
+
+#### Cypher Fundamentals
+Neo4j
+Issued May 2023
+[Show credential](https://graphacademy.neo4j.com/u/6c6c8c06-e977-42a8-b681-9bf0f2c375ba/cypher-fundamentals/)
+
+
+#### Graph Data Modeling Fundamentals
+Neo4j
+Issued May 2023
+[Show credential](https://graphacademy.neo4j.com/u/6c6c8c06-e977-42a8-b681-9bf0f2c375ba/modeling-fundamentals/)
