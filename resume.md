@@ -69,7 +69,7 @@ _IDEs:_
 
 
 ## Languages
-•	English    High Proficiency
+•	English &nbsp   High Proficiency
 •	Hindi      Native Proficiency
 •	Marathi    Native Proficiency
 •	French	   Limited Proficiency
