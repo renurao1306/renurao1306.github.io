@@ -70,9 +70,12 @@ _IDEs:_
 
 ## Languages
 •	English &emsp;   High Proficiency
-•	Hindi      Native Proficiency
-•	Marathi    Native Proficiency
-•	French	   Limited Proficiency
+
+•	Hindi   &emsp;   Native Proficiency
+
+•	Marathi  &emsp;  Native Proficiency
+
+•	French	&emsp;   Limited Proficiency
 
 ## Certifications
 #### Neo4j Fundamentals
