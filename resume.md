@@ -1,6 +1,6 @@
 ---
 title: Renu Rao's Resume
-layout: template
+
 filename: resume.md
 --- 
 
