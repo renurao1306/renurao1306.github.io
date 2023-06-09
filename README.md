@@ -10,4 +10,4 @@ Being a voracious reader, books feel like home to me. I also like to doodle and 
 
 I would like to contribute to building full-stack applications so please feel free to contact me on LinkedIn 😄
 
-[View my resume](https://renurao1306.github.io/resume.md)
+[View my resume](resume.md)
