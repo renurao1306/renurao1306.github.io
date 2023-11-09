@@ -15,6 +15,10 @@ My 'attention to detail' trait helps me focus my thoughts in all areas of a proj
 
 
 ## Education
+### Master of Computer Applications
+
+_SVKM's NMIMS Mukesh Patel School of Technology Management and Engineering (Mumbai Campus)_
+
 ### Bachelor of Science (Information Technology)
 
 _Bhavan’s College (Autonomous), Andheri (West), Mumbai_
@@ -28,12 +32,6 @@ _Bhavan’s College (Autonomous), Andheri (West), Mumbai_
 _Nirmala Memorial Foundation College of Commerce and Science, Kandivali (East), Mumbai_
 
 •	Passed with 1st class distinction (91.08%)
-
-### Class 10th (SSC)
-
-_St. Louis’ Convent High School, Andheri (West), Mumbai_
-
-•	Passed with 1st class distinction (94.80%)
 
 
 ## Technical Skills
